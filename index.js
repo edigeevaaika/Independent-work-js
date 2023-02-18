@@ -9,8 +9,10 @@ function coneVolume(h,r){
 }
 coneVolume(12,6);
 
-function stringLength( a, b, c ){
-  return a * b * c;
-}
-console.log (stringLength(5,7,5));
 
+function getStringLength(str) {
+  return str.length;
+}
+let myString = 'Привет, мир!';
+let stringLength = getStringLength(myString);
+console.log(stringLength); // выведет 13
