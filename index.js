@@ -16,3 +16,13 @@ function getStringLength(str) {
 let myString = 'Привет, мир!';
 let stringLength = getStringLength(myString);
 console.log(stringLength); // выведет 13
+
+
+function number(a) {
+  if (a % 2 === 0) {
+    console.log("this number is even");
+  } else if (a % 2 !== 0) {
+    console.log("this number is not even");
+  }
+}
+number(43);
