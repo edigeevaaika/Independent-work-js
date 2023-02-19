@@ -26,3 +26,9 @@ function number(a) {
   }
 }
 number(43);
+
+
+function squareNumber(a){
+  return a * a;
+}
+console.log(squareNumber(4));
