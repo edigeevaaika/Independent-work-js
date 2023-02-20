@@ -46,3 +46,9 @@ console.log(perimeter(2,4,7,37,89));
 for (let i = 0; i < 34; i = i + 3){
   console.log(i)
 }
+
+let factorialResult = 1
+for (let i = 1; i < 9 ; i++ ){
+  factorialResult = factorialResult * i
+}
+console.log(factorialResult)
