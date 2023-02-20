@@ -61,3 +61,7 @@ console.log(factorialResult)
 for (let i = 1; i < 11; i++){
   console.log(i ** 2);
 }
+
+//11. Напишите цикл, который вычисляет сумму чисел от 1 до 25.
+// ... 
+
