@@ -92,3 +92,7 @@ if (number3[i] % 2 === 0) {
 }
 }
 console.log(sum2);
+
+//21. Создайте массив строк и проверьте есть ли такой элемент в массиве. // ["cat", "dog", "snake"] 
+// cat - true
+// parrot - false
