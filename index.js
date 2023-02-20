@@ -47,6 +47,8 @@ for (let i = 0; i < 34; i = i + 3){
   console.log(i)
 }
 
+//9. Напишите цикл, вычисляющий факториал числа 8. (8!)
+// ...
 let factorialResult = 1
 for (let i = 1; i < 9 ; i++ ){
   factorialResult = factorialResult * i
