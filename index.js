@@ -87,6 +87,13 @@ for ( let i = 1; i < 16; i ++){
   }
 }
 //14. Создайте массив из строк и добавьте в начало массива 2 новых элемента, а в конец 3.
+ let example1 = ["Karakol","Bishkek","Naryn","Osh"]
+ let result = 0;
+ example1.unshift('Tokmok','Kara-balta')
+ console.log(example1);
+ example1.push('Kyzyl Kyiy','Kant','Cholpon Ata')
+ console.log(example1);
+
 
 //15. Создайте массив чисел и вычислите сумму всех четных чисел в массиве.
 // let number3 = [2,5,8,12,5];
