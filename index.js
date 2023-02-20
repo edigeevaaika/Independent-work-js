@@ -96,3 +96,11 @@ console.log(sum2);
 //21. Создайте массив строк и проверьте есть ли такой элемент в массиве. // ["cat", "dog", "snake"] 
 // cat - true
 // parrot - false
+ let example = ["parrot","horse","cat", "dog", "snake","pig",];
+ for (let i = 0; i < example.length; i ++){
+  if (example[i] === "cat"||example[i] === "dog"||example[i] == "snake"){
+    console.log (example[i] + " - true" );
+  } else {
+    console.log (example[i] + " - false" );
+  }
+ }
