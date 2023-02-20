@@ -26,17 +26,23 @@ function number(a) {
 number(43);
 
 function squareNumber(a) {
-  return a * a;
+  return a ** 2;
 }
 console.log(squareNumber(9));
 
 
 
 // Math.sqrt(25);
+function sqrtNumber(a){
+  return Math.sqrt(a)
+}
+console.log(sqrtNumber(25))
 
 function perimeter(a,b,c,d,e){
   return a + b + c + d + e
 }
 console.log(perimeter(2,4,7,37,89));
 
-
+for (let i = 0; i < 34; i = i + 3){
+  console.log(i)
+}
