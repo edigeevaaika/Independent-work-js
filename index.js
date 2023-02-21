@@ -4,6 +4,7 @@ function myName() {
 }
 myName();
 
+// functionName(height, radius) // Объем конуса равен ...
 function coneVolume(h, r) {
   let volum = (1 / 3) * h * r;
   console.log(volum);
