@@ -59,6 +59,9 @@ function perimeter(a, b, c, d, e) {
 }
 console.log(perimeter(2, 4, 7, 37, 89));
 
+
+// 8. Напишите цикл, который выводит каждое третье число в промежутке от 0 до 33.
+// 0 3 6 9 ...
 for (let i = 0; i < 34; i = i + 3) {
   console.log(i);
 }
