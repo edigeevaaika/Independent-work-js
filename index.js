@@ -143,6 +143,15 @@ console.log(example3);
 
 //19. Создайте массив из имен (минимум 3) и выведите каждое имя.
 // Hello Erjan Hello Ermek ...
+let names = ["Aida", "Umar", "Usman", "Ailin", "Abdurahman"];
+console.log(
+  Hello ${names[0]},
+  Hello ${names[1]},
+  Hello ${names[2]},
+  Hello ${names[3]},
+  Hello ${names[4]}
+);
+
 
 
 
