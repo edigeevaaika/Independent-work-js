@@ -124,13 +124,6 @@ for (let i = 0; i < number3.length; i++) {
 console.log(sum2);
 
 
-
-// let arr = [2, 3, 4, 5];
-// arr = arr.map(el => el **2);
-
-// console.log(arr);
-
-
 //17. Создайте массив строк и объедините их в одну строку. // ["I", "like", "to", "eat!"]
 let example2 = ["I", "like", "to", "eat"];
 console.log(example2.join());
@@ -151,15 +144,15 @@ console.log(
   Hello ${names[3]},
   Hello ${names[4]}
 );
-let arr = [2, 3, 4, 5];
-arr = arr.map(el => el **2);
-
-console.log(arr);
 
 
 // 20. Создайте массив из чисел и выведите квадраты этих чисел. [2, 3, 4, 5]
 // 4 9 16 25
 
+let arr = [2, 3, 4, 5];
+arr = arr.map(el => el **2);
+
+console.log(arr);
 
 
 
