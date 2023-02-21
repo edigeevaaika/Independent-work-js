@@ -151,7 +151,10 @@ console.log(
   Hello ${names[3]},
   Hello ${names[4]}
 );
+let arr = [2, 3, 4, 5];
+arr = arr.map(el => el **2);
 
+console.log(arr);
 
 
 // 20. Создайте массив из чисел и выведите квадраты этих чисел. [2, 3, 4, 5]
