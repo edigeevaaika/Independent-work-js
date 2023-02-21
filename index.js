@@ -1,3 +1,4 @@
+// functionName("Erjan", "Kydyrov") // My  name is Erjan Kydyrov
 function myName() {
   console.log("My name is ", "Aida ", "Edigeeve ");
 }
