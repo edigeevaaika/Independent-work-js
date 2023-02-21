@@ -137,6 +137,10 @@ console.log(example2.join());
 
 
 //18. Создайте массив строк ["one", "two", "three"] и переверните его. // ["three", "two", "one"]
+let example3 = ["one", "two", "three"];
+example3.reverse();
+console.log(example3);
+
 
 
 
