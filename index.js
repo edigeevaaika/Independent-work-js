@@ -125,15 +125,17 @@ console.log(sum2);
 
 
 
-let arr = [2, 3, 4, 5];
-arr = arr.map(el => el **2);
+// let arr = [2, 3, 4, 5];
+// arr = arr.map(el => el **2);
 
-console.log(arr);
+// console.log(arr);
 
 
 //17. Создайте массив строк и объедините их в одну строку. // ["I", "like", "to", "eat!"]
 let example2 = ["I", "like", "to", "eat"];
 console.log(example2.join());
+
+
 
 
 
