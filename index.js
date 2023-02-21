@@ -19,6 +19,8 @@ let myString = "Привет, мир!";
 let stringLength = getStringLength(myString);
 console.log(stringLength); // выведет 13
 
+
+// 4. Напишите функцию, которая принимает число и проверяет, четное оно или нечетное.
 function number(a) {
   if (a % 2 === 0) {
     console.log("this number is even");
