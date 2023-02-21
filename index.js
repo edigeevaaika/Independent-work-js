@@ -50,6 +50,10 @@ function sqrtNumber(a) {
 }
 console.log(sqrtNumber(25));
 
+
+// 7. Напишите функцию, которая возвращает периметр пятиугольника.
+// functionName(a, b, c, d, e) // Периметр - ...
+
 function perimeter(a, b, c, d, e) {
   return a + b + c + d + e;
 }
