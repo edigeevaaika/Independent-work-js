@@ -32,6 +32,10 @@ function number(a) {
 }
 number(43);
 
+
+// 5. Напишите функцию, которая возвращает квадрат числа.
+// functionName(num) // Квадрат этого числа равен
+
 function squareNumber(a) {
   return a ** 2;
 }
