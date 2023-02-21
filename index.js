@@ -41,6 +41,9 @@ function squareNumber(a) {
 }
 console.log(squareNumber(9));
 
+
+// 6. Напишите функцию, которая возвращает корень числа.
+// functionName(num) // Корень этого числа равен
 // Math.sqrt(25);
 function sqrtNumber(a) {
   return Math.sqrt(a);
