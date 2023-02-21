@@ -136,6 +136,7 @@ let example2 = ["I", "like", "to", "eat"];
 console.log(example2.join());
 
 
+//18. Создайте массив строк ["one", "two", "three"] и переверните его. // ["three", "two", "one"]
 
 
 
