@@ -11,6 +11,7 @@ function coneVolume(h, r) {
 }
 coneVolume(12, 6);
 
+// functionName(" ... ") // Длина строки равна ...
 function getStringLength(str) {
   return str.length;
 }
